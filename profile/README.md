@@ -1,6 +1,6 @@
 # 🌐 DecentraLabs
 
-**Decentralizing Access to Science, One Lab at a Time.**
+**Decentralizing access to science, one lab at a time.**
 
 Welcome to **DecentraLabs** — an open-source, community-driven initiative working to reshape how online laboratories are accessed, shared, and sustained across the globe. We leverage **blockchain**, **smart contracts**, and **open protocols** to build the future of **remote experimentation** for education, research, and innovation.
 
