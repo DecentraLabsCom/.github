@@ -58,7 +58,7 @@ We're solving this by building a **trustless**, **transparent**, and **tokenized
 ## 🤝 Join the Movement
 
 - 🌐 [Official Website](https://decentralabs.nebsyst.com)
-- 🗣️ [Follow us on Twitter/X](https://twitter.com/DecentraLabs)  
+- 🗣️ [Follow us on Twitter/X](https://twitter.com/DecentraLabsCom)  
 - 💬 [Join the Discussion Forum](https://github.com/orgs/DecentraLabsCom/discussions)  
 - 📨 [Contact Us](mailto:contact@nebsyst.com)
 
