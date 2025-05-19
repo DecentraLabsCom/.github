@@ -47,7 +47,7 @@ We're solving this by building a **trustless**, **transparent**, and **tokenized
 - [`Smart-Contracts`](https://github.com/DecentraLabsCom/Smart-Contracts) — Solidity contracts (ERC-2535 proxy, ERC-721 NFTs, EIP-809 Reservations, ERC-20 $LAB).  
 - [`Smart-Contract-Specifications`](https://github.com/DecentraLabsCom/Smart-Contract-Specifications) — Formal definitions and workflows.
 - [`Lab-Metadata`](https://github.com/DecentraLabsCom/Lab-Metadata) — Specification for the tokenized labs metadata.
-- [`Tokenomics`](https://github.com/DecentraLabsCom/Tokenomics) *(coming soon)* — $LAB tokenomics to fuel our ecosystem.  
+- [`Tokenomics`](https://github.com/DecentraLabsCom/Tokenomics) — $LAB tokenomics to fuel our ecosystem.  
 - [`Marketplace dApp`](https://github.com/DecentraLabsCom/Marketplace) *(coming soon)* — The front-end to access, book and manage labs.  
 - [`IoT-API`](https://github.com/DecentraLabsCom/IoT-API) *(coming soon)* — Java API for hardware-level access control.
 
