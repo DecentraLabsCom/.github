@@ -44,12 +44,13 @@ We're solving this by building a **trustless**, **transparent**, and **tokenized
 
 🔗 Explore our work:
 
-- [`Smart-Contracts`](https://github.com/DecentraLabsCom/Smart-Contracts) — Solidity contracts (ERC-2535 proxy, ERC-721 NFTs, EIP-809 Reservations, ERC-20 $LAB).  
-- [`Smart-Contract-Specifications`](https://github.com/DecentraLabsCom/Smart-Contract-Specifications) — Formal definitions and workflows.
-- [`Lab-Metadata`](https://github.com/DecentraLabsCom/Lab-Metadata) — Specification for the tokenized labs metadata.
+- [`Smart Contracts`](https://github.com/DecentraLabsCom/Smart-Contracts) — Solidity contracts (ERC-2535 proxy, ERC-721 NFTs, EIP-809 Reservations, ERC-20 $LAB).  
+- [`Smart Contract Specifications`](https://github.com/DecentraLabsCom/Smart-Contract-Specifications) — Formal definitions and workflows.
+- [`Lab Metadata`](https://github.com/DecentraLabsCom/Lab-Metadata) — Specification for the tokenized labs metadata.
 - [`Tokenomics`](https://github.com/DecentraLabsCom/Tokenomics) — $LAB tokenomics to fuel our ecosystem.  
 - [`Marketplace dApp`](https://github.com/DecentraLabsCom/Marketplace) — The front-end to access, book and manage labs.  
-- [`Auth Service`](https://github.com/DecentraLabsCom/auth-service) *(coming soon)* — Java Spring authentication/authorization service for access control.
+- [`Auth Service`](https://github.com/DecentraLabsCom/auth-service) *(coming soon)* — Java Spring authentication/authorization service to communicate with access control systems.
+- [`Access Control`](https://github.com/DecentraLabsCom/access-control) *(coming soon)* — Docker image lab providers can deploy in seconds in any computer to operate as an access control system.
 
 > Want to contribute? [Check our issues](https://github.com/orgs/DecentraLabsCom/projects) or open a discussion!
 
