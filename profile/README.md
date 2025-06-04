@@ -16,7 +16,7 @@ DecentraLabs is more than just code — it's an ecosystem.
 - 🧠 **$LAB Token** — A fungible token that fuels incentives and sustainability.  
 - 🖥️ **Marketplace dApp** — A decentralized web application to discover and book online labs.  
 - 🔐 **Federated Authentication** — Support for both crypto wallets *and* institutional SSO (e.g., eduGAIN).  
-- 🌍 **IoT Integration API** — Seamlessly connect smart lab platforms to the decentralized protocol.  
+- 🌍 **Access Control Integration Service** — Seamlessly connect smart lab platforms to the decentralized protocol.  
 - 📖 **Specifications, Docs & Guides** — So anyone can contribute, replicate, or extend.
 
 All under a **fully open-source license**, free to use, build upon, and remix.
@@ -49,7 +49,7 @@ We're solving this by building a **trustless**, **transparent**, and **tokenized
 - [`Lab-Metadata`](https://github.com/DecentraLabsCom/Lab-Metadata) — Specification for the tokenized labs metadata.
 - [`Tokenomics`](https://github.com/DecentraLabsCom/Tokenomics) — $LAB tokenomics to fuel our ecosystem.  
 - [`Marketplace dApp`](https://github.com/DecentraLabsCom/Marketplace) — The front-end to access, book and manage labs.  
-- [`IoT-API`](https://github.com/DecentraLabsCom/auth-service) *(coming soon)* — Java Spring authentication/authorization service for access control.
+- [`Auth Service`](https://github.com/DecentraLabsCom/auth-service) *(coming soon)* — Java Spring authentication/authorization service for access control.
 
 > Want to contribute? [Check our issues](https://github.com/orgs/DecentraLabsCom/projects) or open a discussion!
 
