@@ -48,8 +48,8 @@ We're solving this by building a **trustless**, **transparent**, and **tokenized
 - [`Smart-Contract-Specifications`](https://github.com/DecentraLabsCom/Smart-Contract-Specifications) — Formal definitions and workflows.
 - [`Lab-Metadata`](https://github.com/DecentraLabsCom/Lab-Metadata) — Specification for the tokenized labs metadata.
 - [`Tokenomics`](https://github.com/DecentraLabsCom/Tokenomics) — $LAB tokenomics to fuel our ecosystem.  
-- [`Marketplace dApp`](https://github.com/DecentraLabsCom/Marketplace) *(coming soon)* — The front-end to access, book and manage labs.  
-- [`IoT-API`](https://github.com/DecentraLabsCom/IoT-API) *(coming soon)* — Java API for hardware-level access control.
+- [`Marketplace dApp`](https://github.com/DecentraLabsCom/Marketplace) — The front-end to access, book and manage labs.  
+- [`IoT-API`](https://github.com/DecentraLabsCom/auth-service) *(coming soon)* — Java Spring authentication/authorization service for access control.
 
 > Want to contribute? [Check our issues](https://github.com/orgs/DecentraLabsCom/projects) or open a discussion!
 
