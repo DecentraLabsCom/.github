@@ -2,7 +2,7 @@
 
 **Decentralizing access to science, one lab at a time.**
 
-Welcome to **DecentraLabs** — an open-source, community-driven initiative working to reshape how online laboratories are accessed, shared, and sustained across the globe. We leverage **blockchain**, **smart contracts**, and **open protocols** to build the future of **remote experimentation** for education, research, and innovation.
+Welcome to **DecentraLabs**: an open-source, community-driven initiative working to reshape how online laboratories are accessed, shared, and sustained across the globe. We leverage **blockchain**, **smart contracts**, and **open protocols** to build the future of **remote experimentation** for education, research, and innovation.
 
 > 🧪 *"Imagine a world where anyone, anywhere, can access a real lab in seconds. We're building that world."*
 
@@ -10,7 +10,7 @@ Welcome to **DecentraLabs** — an open-source, community-driven initiative work
 
 ## 🚀 What We’re Building
 
-DecentraLabs is more than just code — it's an ecosystem.
+DecentraLabs is more than just code; it's an ecosystem.
 
 - ⚙️ **Smart Contracts** for decentralized lab registration, reservation, and payment.  
 - 🧠 **$LAB Token** — A fungible token that fuels incentives and sustainability.  
@@ -67,7 +67,7 @@ We're solving this by building a **trustless**, **transparent**, and **tokenized
 
 ## 🛡 License
 
-All our work is released under the **GPL 3.0 License** — because we believe in **freedom, transparency, and collaboration**.
+All our work is released under the **GPL 3.0 License** because we believe in **freedom, transparency, and collaboration**.
 
 ---
 
