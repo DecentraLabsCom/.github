@@ -34,15 +34,21 @@ For 20+ years, online laboratories (OLs) have existed—but few have survived. W
 
 We're solving this by building a **trustless**, **transparent**, and **tokenized** ecosystem where:
 
-- Institutions get rewarded for sharing their labs 🎓  
-- Students and researchers get global, verifiable access 🌐  
-- Everyone benefits from a **fair, open, and decentralized model** 🔁  
+- :heavy_check_mark: Institutions get rewarded for sharing their labs 🎓  
+- :heavy_check_mark: Students and researchers get global, verifiable access 🌐  
+- :heavy_check_mark: Everyone benefits from a **fair, open, and decentralized model** 🔁  
 
 Not convinced yet? See what students, researchers, teachers, lab technicians and lab equipment manufacturers and sellers all over the world have to say about the topic:
-- [Lab potential users (Spanish survey)](https://forms.office.com/Pages/AnalysisPage.aspx?AnalyzerToken=VmwPliazQ0yeNAHJhWKkiaO4tiyCOfH6&id=SHBYtXCgrUO2VCCjHpstmUHZIu_Zj5VBpqmg_wZZ0-VUQlJRN1E2UDhDV1pRRllGTTg0TlZDSVU2Sy4u)
-- [Lab potential providers (Spanish survey)](https://forms.office.com/Pages/AnalysisPage.aspx?AnalyzerToken=0fhNRC6EaXN2oKncJuTTJWuLZPAizA6j&id=SHBYtXCgrUO2VCCjHpstmUHZIu_Zj5VBpqmg_wZZ0-VUMlZDNFZXWTJIVjVVUTVHVzNGRjE4Q0dRNC4u)
-- [Lab potential users (English survey)] (Coming soon)
-- [Lab potential providers (English survey)] (Coming soon)
+- :bar_chart: [Lab potential users (Spanish survey)](https://forms.office.com/Pages/AnalysisPage.aspx?AnalyzerToken=VmwPliazQ0yeNAHJhWKkiaO4tiyCOfH6&id=SHBYtXCgrUO2VCCjHpstmUHZIu_Zj5VBpqmg_wZZ0-VUQlJRN1E2UDhDV1pRRllGTTg0TlZDSVU2Sy4u)
+- :bar_chart: [Lab potential providers (Spanish survey)](https://forms.office.com/Pages/AnalysisPage.aspx?AnalyzerToken=0fhNRC6EaXN2oKncJuTTJWuLZPAizA6j&id=SHBYtXCgrUO2VCCjHpstmUHZIu_Zj5VBpqmg_wZZ0-VUMlZDNFZXWTJIVjVVUTVHVzNGRjE4Q0dRNC4u)
+- :bar_chart: [Lab potential users (English survey)] (Coming soon)
+- :bar_chart: [Lab potential providers (English survey)] (Coming soon)
+
+Would you like your voice to be heard too? You are welcome to fill the surveys yourself:
+- :memo: [Potential lab user (English)](https://forms.office.com/e/Lmaa6haCsF)
+- :memo: [Potential lab provider (English)](https://forms.office.com/e/4cuedTKrGK)
+- :memo: [Potential lab user (Spanish)](https://forms.office.com/e/55krrX1cbz)
+- :memo: [Potential lab provider (Spanish)](https://forms.office.com/e/6HYBsazuYm)
 
 ---
 
