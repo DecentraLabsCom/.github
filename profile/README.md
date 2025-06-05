@@ -38,6 +38,12 @@ We're solving this by building a **trustless**, **transparent**, and **tokenized
 - Students and researchers get global, verifiable access 🌐  
 - Everyone benefits from a **fair, open, and decentralized model** 🔁  
 
+Not convinced yet? See what students, researchers, teachers, lab technicians and lab equipment manufacturers and sellers all over the world have to say about the topic:
+- [Lab potential users (Spanish survey)](https://forms.office.com/Pages/AnalysisPage.aspx?AnalyzerToken=VmwPliazQ0yeNAHJhWKkiaO4tiyCOfH6&id=SHBYtXCgrUO2VCCjHpstmUHZIu_Zj5VBpqmg_wZZ0-VUQlJRN1E2UDhDV1pRRllGTTg0TlZDSVU2Sy4u)
+- [Lab potential providers (Spanish survey)](https://forms.office.com/Pages/AnalysisPage.aspx?AnalyzerToken=0fhNRC6EaXN2oKncJuTTJWuLZPAizA6j&id=SHBYtXCgrUO2VCCjHpstmUHZIu_Zj5VBpqmg_wZZ0-VUMlZDNFZXWTJIVjVVUTVHVzNGRjE4Q0dRNC4u)
+- [Lab potential users (English survey)] (Coming soon)
+- [Lab potential providers (English survey)] (Coming soon)
+
 ---
 
 ## 📂 Key Repositories
