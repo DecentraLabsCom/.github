@@ -62,7 +62,8 @@ Would you like your voice to be heard too? You are welcome to fill the surveys y
 - [`Tokenomics`](https://github.com/DecentraLabsCom/Tokenomics) — $LAB tokenomics to fuel our ecosystem.  
 - [`Marketplace dApp`](https://github.com/DecentraLabsCom/Marketplace) — The front-end to access, book and manage labs.  
 - [`Auth Service`](https://github.com/DecentraLabsCom/auth-service) *(coming soon)* — Java Spring authentication/authorization service to communicate with access control systems.
-- [`Access Control`](https://github.com/DecentraLabsCom/access-control) *(coming soon)* — Docker image lab providers can deploy in seconds in any computer to operate as an access control system.
+- [`Access Control Service`](https://github.com/DecentraLabsCom/access-control-service) *(coming soon)* — Docker image lab providers can deploy in seconds in any computer to operate as an access control system.
+- [`Lab App Control`](https://github.com/DecentraLabsCom/lab-app-control) *(coming soon)* — Daemon service for managing the open/close state of the desktop application that provides the lab interface.
 
 > Want to contribute? [Check our issues](https://github.com/orgs/DecentraLabsCom/projects) or open a discussion!
 
