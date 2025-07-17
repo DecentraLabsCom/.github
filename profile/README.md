@@ -63,7 +63,8 @@ Would you like your voice to be heard too? You are welcome to fill the surveys y
 - [`Marketplace dApp`](https://github.com/DecentraLabsCom/Marketplace) — The front-end to access, book and manage labs.  
 - [`Auth Service`](https://github.com/DecentraLabsCom/auth-service) — Java Spring authentication/authorization service to communicate with access control systems.
 - [`Access Control Service`](https://github.com/DecentraLabsCom/access-control-service) *(coming soon)* — Docker image that lab providers can deploy in seconds on any computer to function as an access control system for their lab resources.
-- [`Lab App Control`](https://github.com/DecentraLabsCom/lab-app-control) *(coming soon)* — Daemon service for managing the open/close state of the desktop application that provides the lab interface.
+- [`Auth + Access Control Service`](https://github.com/DecentraLabsCom/auth-access-control-service) *(coming soon)* — Includes the auth service and the access control service into one single docker image.
+- [`Lab App Control`](https://github.com/DecentraLabsCom/lab-app-control) *(coming soon)* — A Windows-based daemon service for managing the open/close state of the desktop applications that provide the interface for controlling a lab setup.
 
 > Want to contribute? [Check our issues](https://github.com/orgs/DecentraLabsCom/projects) or open a discussion!
 
