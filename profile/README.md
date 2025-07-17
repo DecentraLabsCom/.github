@@ -61,7 +61,7 @@ Would you like your voice to be heard too? You are welcome to fill the surveys y
 - [`Lab Metadata`](https://github.com/DecentraLabsCom/Lab-Metadata) — Specification for the tokenized labs metadata.
 - [`Tokenomics`](https://github.com/DecentraLabsCom/Tokenomics) — $LAB tokenomics to fuel our ecosystem.  
 - [`Marketplace dApp`](https://github.com/DecentraLabsCom/Marketplace) — The front-end to access, book and manage labs.  
-- [`Auth Service`](https://github.com/DecentraLabsCom/auth-service) *(coming soon)* — Java Spring authentication/authorization service to communicate with access control systems.
+- [`Auth Service`](https://github.com/DecentraLabsCom/auth-service) — Java Spring authentication/authorization service to communicate with access control systems.
 - [`Access Control Service`](https://github.com/DecentraLabsCom/access-control-service) *(coming soon)* — Docker image that lab providers can deploy in seconds on any computer to function as an access control system for their lab resources.
 - [`Lab App Control`](https://github.com/DecentraLabsCom/lab-app-control) *(coming soon)* — Daemon service for managing the open/close state of the desktop application that provides the lab interface.
 
