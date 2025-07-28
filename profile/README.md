@@ -28,7 +28,7 @@ All under a **fully open-source license**, free to use, build upon, and remix.
 For 20+ years, online laboratories (OLs) have existed but few have survived. Why?
 
 ❌ Lack of incentives  
-❌ Reduced of visibility  
+❌ Reduced visibility  
 ❌ Lack of interoperability  
 ❌ Limited discoverability  
 ❌ Centralized gatekeepers  
