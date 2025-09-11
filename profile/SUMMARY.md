@@ -6,5 +6,5 @@
 * [The Tokenized Labs Section](the-tokenized-labs-section.md)
 * [The Smart Contracts Section](the-smart-contracts-section.md)
 * [The Auth Service Section](the-auth-service-section.md)
-* [The Access Control Section](the-access-control-section.md)
+* [The Lab Gateway Section](the-access-control-section.md)
 * [The Lab Control Section](the-lab-control-section.md)
