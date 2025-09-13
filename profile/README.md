@@ -66,7 +66,7 @@ Would you like your voice to be heard too? You are welcome to fill the surveys y
 * [`Tokenomics`](https://github.com/DecentraLabsCom/Tokenomics) — $LAB tokenomics to fuel our ecosystem.
 * [`Marketplace dApp`](https://github.com/DecentraLabsCom/Marketplace) — The front-end to access, book and manage labs.
 * [`Auth Service`](https://github.com/DecentraLabsCom/auth-service) — Java Spring authentication/authorization service to communicate with access control systems.
-* [`Lite Lab Gateway`](https://github.com/DecentraLabsCom/lite-lab-gateway) _(coming soon)_ — Docker container that lab providers can deploy in seconds on any computer to function as a gateway / access system for their lab resources.
+* [`Lite Lab Gateway`](https://github.com/DecentraLabsCom/lite-lab-gateway) — Docker container that lab providers can deploy in seconds on any computer to function as a gateway / access system to their lab resources.
 * [`Full Lab Gateway`](https://github.com/DecentraLabsCom/full-lab-gateway) _(coming soon)_ — Includes the auth service and the lite lab gateway into one single docker container.
 * [`Lab App Control`](https://github.com/DecentraLabsCom/lab-app-control) — A Windows-based daemon service for managing the open/close state of the desktop applications that provide the interface for controlling a lab setup.
 
