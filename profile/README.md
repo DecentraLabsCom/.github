@@ -32,13 +32,13 @@ For 20+ years, online laboratories (OLs) have existed but few have survived. Why
 ❌ Lack of interoperability\
 ❌ Limited discoverability\
 ❌ Centralized gatekeepers\
-❌ Missing reliability data\
+❌ No reliability track records\
 ❌ Sustainability problems
 
 We're solving this by building a **trustless**, **transparent**, and **tokenized** ecosystem where:
 
 :heavy\_check\_mark: Institutions get rewarded for sharing their labs 🎓\
-:heavy\_check\_mark: Labs present a traceable performance and reliability history 🎓\
+:heavy\_check\_mark: Labs have a verifiable performance and reliability track record 🔎\
 :heavy\_check\_mark: Students and researchers get global, verifiable access 🌐\
 :heavy\_check\_mark: Everyone benefits from a **fair, open, and decentralized model** 🔁
 
