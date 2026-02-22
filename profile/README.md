@@ -15,7 +15,7 @@ DecentraLabs is more than just code; it's an ecosystem.
 * ⚙️ **Smart Contracts** — For decentralized lab registration, reservation, and payment.
 * 🧠 **$LAB Token** — A fungible token that fuels incentives and sustainability.
 * 🖥️ **Marketplace dApp** — A decentralized web application to discover and book online labs.
-* 🔐 **Federated Authentication** — Support for both crypto wallets _and_ institutional SSO (e.g., eduGAIN).
+* 🔐 **Hybrid Authentication** — Support for both crypto wallets _and_ federated institutional SSO (e.g., eduGAIN).
 * 🌍 **Access Control Integration Service** — Seamlessly connect smart lab platforms to the decentralized protocol.
 * 📖 **Specifications, Docs & Guides** — So anyone can contribute, replicate, or extend.
 
@@ -32,11 +32,13 @@ For 20+ years, online laboratories (OLs) have existed but few have survived. Why
 ❌ Lack of interoperability\
 ❌ Limited discoverability\
 ❌ Centralized gatekeepers\
+❌ Missing reliability data\
 ❌ Sustainability problems
 
 We're solving this by building a **trustless**, **transparent**, and **tokenized** ecosystem where:
 
 :heavy\_check\_mark: Institutions get rewarded for sharing their labs 🎓\
+:heavy\_check\_mark: Labs present a traceable performance and reliability history 🎓\
 :heavy\_check\_mark: Students and researchers get global, verifiable access 🌐\
 :heavy\_check\_mark: Everyone benefits from a **fair, open, and decentralized model** 🔁
 
