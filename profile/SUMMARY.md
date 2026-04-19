@@ -7,4 +7,4 @@
 * [The Smart Contracts Section](the-smart-contracts-section.md)
 * [The Auth Service Section](the-auth-service-section.md)
 * [The Lab Gateway Section](the-access-control-section.md)
-* [The Lab Control Section](the-lab-control-section.md)
+* [The Station Section](the-lab-control-section.md)
