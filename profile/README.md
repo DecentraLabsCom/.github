@@ -63,13 +63,11 @@ Would you like your voice to be heard too? You are welcome to fill the surveys y
 🔗 Explore our work:
 
 * [`Smart Contracts`](https://github.com/DecentraLabsCom/Smart-Contracts) — Solidity contracts (ERC-2535 proxy, ERC-721 NFTs, EIP-809 Reservations, ERC-20 $LAB).
-* [`Smart Contract Specifications`](https://github.com/DecentraLabsCom/Smart-Contract-Specifications) — Formal definitions and workflows.
 * [`Lab Metadata`](https://github.com/DecentraLabsCom/Lab-Metadata) — Specification for the tokenized labs metadata.
-* [`Tokenomics`](https://github.com/DecentraLabsCom/Tokenomics) — $LAB tokenomics to fuel our ecosystem.
 * [`Marketplace dApp`](https://github.com/DecentraLabsCom/Marketplace) — The front-end to access, book, list and manage labs.
 * [`Blockchain Services`](https://github.com/DecentraLabsCom/Blockchain-Services) — Dockerized Java Spring service for authentication/authorization and smart contract interactions.
 * [`Lab Gateway`](https://github.com/DecentraLabsCom/lab-gateway) — Docker container that lab providers can deploy in seconds on any computer to function as a gateway / access system to their lab resources. Comes in two versions: lite and full (which includes the blockchain services).
-* [`Lab App Control`](https://github.com/DecentraLabsCom/lab-app-control) — A Windows-based daemon service for managing the open/close state of the desktop applications that provide the interface for controlling a lab setup.
+* [`Lab Station`](https://github.com/DecentraLabsCom/Lab-Station) — A Windows-based daemon service for managing the open/close state of the desktop applications that provide the interface for controlling a lab setup.
 
 > Want to contribute? [Check our issues](https://github.com/orgs/DecentraLabsCom/projects) or open a discussion!
 
