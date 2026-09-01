@@ -13,7 +13,6 @@ Welcome to **DecentraLabs**: an open-source, community-driven initiative working
 DecentraLabs is more than just code; it's an ecosystem.
 
 * ⚙️ **Smart Contracts** — For decentralized lab registration, reservation, and payment.
-* 🧠 **$LAB Token** — A fungible token that fuels incentives and sustainability.
 * 🖥️ **Marketplace dApp** — A decentralized web application to discover and book online labs.
 * 🔐 **Hybrid Authentication** — Support for both crypto wallets _and_ federated institutional SSO (e.g., eduGAIN).
 * 🌍 **Access Control Integration Service** — Seamlessly connect smart lab platforms to the decentralized protocol.
