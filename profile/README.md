@@ -62,7 +62,7 @@ Would you like your voice to be heard too? You are welcome to fill the surveys y
 
 🔗 Explore our work:
 
-* [`Smart Contracts`](https://github.com/DecentraLabsCom/Smart-Contracts) — Solidity contracts (ERC-2535 proxy, ERC-721 NFTs, EIP-809 Reservations, ERC-20 $LAB).
+* [`Smart Contracts`](https://github.com/DecentraLabsCom/Smart-Contracts) — Solidity contracts (ERC-2535 proxy, ERC-721 NFTs, EIP-809 Reservations, credit ledger).
 * [`Lab Metadata`](https://github.com/DecentraLabsCom/Lab-Metadata) — Specification for the tokenized labs metadata.
 * [`Marketplace dApp`](https://github.com/DecentraLabsCom/Marketplace) — The front-end to access, book, list and manage labs.
 * [`Blockchain Services`](https://github.com/DecentraLabsCom/Blockchain-Services) — Dockerized Java Spring service for authentication/authorization and smart contract interactions.
@@ -76,7 +76,7 @@ Would you like your voice to be heard too? You are welcome to fill the surveys y
 ## 🤝 Join the Movement
 
 * 🌐 [Official Website](https://decentralabs.nebsyst.com)
-* 🗣️ [Follow us on Twitter/X](https://twitter.com/DecentraLabsCom)
+* 🗣️ [Follow us on Linkedin](https://www.linkedin.com/company/nebsyst)
 * 💬 [Join the Discussion Forum](https://github.com/orgs/DecentraLabsCom/discussions)
 * 📨 [Contact Us](mailto:contact@nebsyst.com)
 
@@ -88,7 +88,7 @@ All our work is released under the **GPL 3.0 License** because we believe in **f
 
 ***
 
-**DecentraLabs** is proudly led by [Nebulous Systems](https://nebsyst.com), [UNED](https://www.uned.es/) and [Blockchain@UBC](https://blockchain.ubc.ca/) with support from the [NGI Sargasso Programme](https://ngisargasso.eu/) and an international network of educators, researchers, and technologists.
+**DecentraLabs** is proudly led by [Nebulous Systems](https://nebsyst.com), [UNED](https://www.uned.es/) and [Blockchain@UBC](https://blockchain.ubc.ca/) with support from the [NGI Sargasso Programme](https://ngisargasso.eu/), the [Vietsch Foundation](https://www.vietsch-foundation.org/) and an international network of educators, researchers, and technologists.
 
 ***
 
